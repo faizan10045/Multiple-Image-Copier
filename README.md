@@ -1,7 +1,11 @@
 # Multiple-Image-Copier
-Copy multiple images from many source folders to a single destination folder using last few characters of filename. 
+Copy multiple images from many source folders to a different destination folders using last few characters of filename. 
 
-Back Story:- My family had shortlisted a couple of 100 photos (JPG & ARW) from two different folders contianing 4000+ images in total. After shortlisting best images we had to move them into a new folder to have the final selected images. 
+Programming Language :- Python
+
+Applications :- Use this code to copy images/files/folders to a destination programmtically instead of manual selection. Weeding/trip/any miscellaneous files.
+
+Back Story:- My family had shortlisted a couple of 100 marraige photos (JPG & ARW) from two different folders contianing 4000+ images in total. After shortlisting best images we had to move them into a new folder to have the final selected images. 
 
 Method_1 :- Normally people would select the images manually and Ctrl+C and Ctrl+V the images in new folder that could take an hour or two.
 
@@ -17,3 +21,5 @@ I used Python.
 5. Iterate through total count of list/array
 6. Add prefix + list[i] + suffix then append it to a new_list
 7. Iterate through new_list and use imported functions to copy from source to destination
+
+Note :- please suggest code changes I know this code is not at all optimized, I wrote it in an hour with little help of internet. Time_complexity= O(n^4) and Space_complexity= O(n^2) maybe. 
