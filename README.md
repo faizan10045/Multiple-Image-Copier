@@ -24,8 +24,5 @@ I used Python.
 
 Note :- please suggest code changes I know this code is not at all optimized, I wrote it in an hour with little help of internet. Time_complexity= O(n^4) and Space_complexity= O(n^2) maybe. 
 
-Shortlisting of images from 1000s of images:-
-<img width="766" alt="Source" src="https://user-images.githubusercontent.com/64662114/168808090-2ae822f6-f80b-414a-9cd4-2632c4b09ff8.png">
+![image](https://github.com/user-attachments/assets/b6c331c0-a774-40ac-8e7c-d7a67c6ace83)
 
-After running code all shortlisted images in one place:-
-<img width="784" alt="Destination" src="https://user-images.githubusercontent.com/64662114/168808109-321020db-c77b-4ecf-a5d5-b73066cd2dcb.png">
